@@ -10,3 +10,4 @@ Hello! My name is Grace Gealy and I use she/her pronouns. I am a second year MSP
 In this class I hope to learn how to create rich and easy to understand graphics.  I think that data is such a valuable tool, and I look forward to improving my ability to convey data effectively. 
 
 # Portfolio
+[homework 1](/dataviz2.md)
