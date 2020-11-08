@@ -5,6 +5,7 @@
 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4274648"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+This graphic shows the trends in the gross debt of a government as a percentage of GDP for OECD countries. Many countries saw an increase in this raio in 2008.
 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4283144"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
