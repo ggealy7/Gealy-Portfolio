@@ -12,8 +12,7 @@ From the critique I found that it wasn't clear what the visulaitation was trying
  
  Through my interviews on my wireframes I found that it was ambigous what my message was and who my audience was.  The information being provided is just a list and is not curated in anyway and the people that I interviewed found it difficult to figure out where I was going with the visulaization.  One suggested I filter the data is some way to show something more interesting with the data.  The other suggested that I only use one hue for the visualation (it's difficult to tell, in the second photo there are three color categories) as it did not add extra value to the visualization.
  
- ## The Final Product
-
+ ## Final Product
 
 <iframe src="https://public.tableau.com/views/CollegeCampuseswith1000Covid-19CasesorMore/CollegeCampuseswith1000Covid-19CasesorMore?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
 
