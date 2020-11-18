@@ -20,4 +20,6 @@ From the critique I found that it wasn't clear what the visulaitation was trying
 Based on feedback from my interviews, I decided to pair down the data to just campuses that had 1,000 cases or greater.  My goal with this visulaization was to allow for people to compare overal case numbers easily between campuses and easily see which universities had the largest number of cases.  I also wanted to fucus on those campuses that were hit particularly hard as those are the campuses that may need to make some hard decisions in the weeks to come.
 
 
-[Data](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html) from The New York Times, based on reports from state and local health agencies.”
+[Data](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html) from The New York Times, based on reports from state and local health agencies.
+
+https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
