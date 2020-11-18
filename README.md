@@ -12,4 +12,4 @@ In this class I hope to learn how to create rich and easy to understand graphics
 # Portfolio
 [homework 1](/dataviz2.md)
 
-[homework 3&4](/homework3.md)
+[homework 3&4](/dataviz3.md)
