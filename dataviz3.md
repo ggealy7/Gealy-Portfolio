@@ -1,9 +1,10 @@
 
 ![Image New York Times Covid In Colleges](CovidColleges.PNG)
 
-![wireframe1](Wireframe1.jpg)
-<img src="Wireframe1.jpg" width="100" height="100"/>
-![Wireframe2](Wireframe2.jpg)
+
+<img src="Wireframe1.jpg" width="50%" height="50%"/>
+<img src="Wireframe2.jgp" width="50%" height="50%"/>
+
 
 <iframe src=https://public.tableau.com/views/CollegeCampuseswith1000Covid-19CasesorMore/CollegeCampuseswith1000Covid-19CasesorMore?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
 
