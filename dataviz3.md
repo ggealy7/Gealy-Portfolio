@@ -14,6 +14,7 @@ From the critique I found that it wasn't clear what the visulaitation was trying
  
  ## The Final Product
 
+
 <iframe src="https://public.tableau.com/views/CollegeCampuseswith1000Covid-19CasesorMore/CollegeCampuseswith1000Covid-19CasesorMore?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
 
 Based on feedback from my interviews, I decided to pair down the data to just campuses that had 1,000 cases or greater.  My goal with this visulaization was to allow for people to compare overal case numbers easily between campuses and easily see which universities had the largest number of cases.  I also wanted to fucus on those campuses that were hit particularly hard as those are the campuses that may need to make some hard decisions in the weeks to come.
