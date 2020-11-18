@@ -1,4 +1,4 @@
-
+ “[Data](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html) from The New York Times, based on reports from state and local health agencies.”
 ![Image New York Times Covid In Colleges](CovidColleges.PNG)
 
 
