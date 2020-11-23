@@ -22,7 +22,15 @@ The Covid-19 pandemic has affected American's in a varity of ways.  I plan on ex
   Contact Your Local Representative and Urge Them to Pass Another Covid Relief Bill 
 
 ## Data
+My data comes from weekly survey the Census Bureau has been conducting since mid March to track various aspects of people's lives related to Covid-19 and the economic downturn associated with it.  I plan to use agregated data for each week to look at trends over time in the approprate attribtutes. 
 
+I plan to use infomation from a question concerning if anyone in the household has experiencd a loss of employment income since march 13 and do you expect that you or anyone in your household will experience a loss of employment income in the next 4 weeks because of Covid to explore trends in employment. 
+
+I plan to use two questions to explore worries about paying rent or mortgage.  First, did you pay last months rent? Then, how confident are you that your household will be able to pay your next rent or mortgage?  
+
+For food insecure I will use a question regarding people's access to food over the previous week and their current access to food.  I will also look at how many people have received a free meal in the last 7 days.
+
+Finally, I will use a question about people's level of anxiety over the previous 7 days.
 
 The U.S. Census Bureau.(2020)  Household Pulse Survey Weeks 1-17 [Public-use data file and documentation]. Retrieved from https://www.census.gov/programs-surveys/household-pulse-survey/datasets.html.
 
