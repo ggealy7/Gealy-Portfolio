@@ -32,6 +32,8 @@ For food insecure I will use a question regarding people's access to food over t
 
 Finally, I will use a question about people's level of anxiety over the previous 7 days.
 
+Citation: 
 The U.S. Census Bureau.(2020)  Household Pulse Survey Weeks 1-17 [Public-use data file and documentation]. Retrieved from https://www.census.gov/programs-surveys/household-pulse-survey/datasets.html.
 
 ## Method and Medium
+I plan on completeing this project using shorthand.  I will use Tableu to make the data visulaizations and embed them into a shorthand presentation.  Additional infromation will be gathered through research to include in the project.
