@@ -24,4 +24,6 @@ The Covid-19 pandemic has affected American's in a varity of ways.  I plan on ex
 ## Data
 https://www.census.gov/programs-surveys/household-pulse-survey/datasets.html
 
+The U.S. Census Bureau.(2020)  Household Pulse Survey weeks 1-17 [Public-use data file and documentation]. Retrieved from https://www.census.gov/programs-surveys/household-pulse-survey/datasets.html.
+
 ## Method and Medium
