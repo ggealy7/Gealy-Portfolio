@@ -6,21 +6,16 @@ The Covid-19 pandemic has affected American's in a varity of ways.  I plan on ex
 1. Intorduction to The Topic (Include note about initial stimulus)
 
 2. People are Loosing Their Jobs or In Fear of Losing Their Jobs
-  ![final3](Final3.jpg)
   <img src="Final3.jpg" width="50%" height="40%"/>
 
 3. People are Unable/Worried About Paying Their Rent or Mortgage
-  ![final4](Final4.jpg)
   <img src="Final4.jpg" width="50%" height="40%"/>
 
 4. People are Becoming More Food Insecure
-![final1](Final1.jpg)
 <img src="Final1.jpg" width="50%" height="40%"/>
-![final2](Final2.jpg)
 <img src="Final2.jpg" width="50%" height="40%"/>
 
 5. Anxiety is Increasing
-![final5](Final5.jpg)
 <img src="Final5.jpg" width="50%" height="40%"/>
 
 6. Call to Action
