@@ -29,9 +29,12 @@ Is there any information you think could add to the effectiveness of the story?
 
 
 
-# User Research Findings
+# Main User Research Findings
 25-Year Old Male Law Student:
-
+ -First Image: Not sure if the timeline is the most effective way to show this information.  Felt it would be effective to use just a snapshot of the last week instead of data for the whole pandemic.  Found the Axis title confusing, he thought % respondents meant the % of people who responded to the overall survey, not those who responded positively to the question. 
+ -Second Image: Suggested using stick figures to compare sizes of each group.  Found the coloring confusing "I couldn't tell which color went with which pie piece."  Suggested changing title from "More than 2 in 5" to Nearly 40%.
+ - Third Image: Number is too big and should be more integrated with the sentence.
+ - Fourth Image: Change the word problem to concern because the visulaization is looking at confidnec not ability.
 22-Year Old Male Chemical Engineering Student:
 
 50-Year Old Female Systems Analyst:
