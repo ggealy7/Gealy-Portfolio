@@ -15,3 +15,5 @@ In this class I hope to learn how to create rich and easy to understand graphics
 [homework 3&4](/dataviz3.md)
 
 [final project part 1.](/finalprojectpt1.md)
+
+[final project part 2.](/finalprojectpt2.md)
