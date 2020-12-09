@@ -68,6 +68,7 @@ I  need to reevaluate my color choices.  They caused confusion in a few differen
 I  plan on finding ways to emphasize that this data if four 18-29 year olds without saying that in every graph.  Along with fixing some errors that my interviewees found. 
 
 [Return to Part I](/finalprojectpt1.md)
+
 [Go to Part 3](/finalprojectpt3.md)
 
 
