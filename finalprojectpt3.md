@@ -5,7 +5,7 @@
 [Part II](/finalprojectpt2.md)
 
 ## Final Data Story 
-[Part III](https://carnegiemellon.shorthandstories.com/gealy-final/index.html)
+[Part III Shorthand Presentation](https://carnegiemellon.shorthandstories.com/gealy-final/index.html)
 
 The main change I made between Parts II and III of my project was a re-odering of the story.  As I was doing my user research I realized that my final visualization was the least exciting and I also felt like I was reaching a bit with the statements that I was planning on making.  So instead I moved the part about mental illness to the end of the presentation in order to end on a more significant figure.
 
