@@ -51,3 +51,8 @@ The U.S. Census Bureau.(2020)  Household Pulse Survey Weeks 1-17 [Public-use dat
 
 ## Method and Medium
 I plan on completeing this project using shorthand.  I will use Tableu to make the data visulaizations and embed them into a shorthand presentation.  Additional infromation will be gathered through research to include in the project.  I will complete the main body of project in the next week and get feedback from my friends and family to ensure that my stroy makes sense and flows.
+
+
+[Go to Part II](/finalprojectpt2.md)
+
+[Go to Part III](/finalprojectpt3.md)
