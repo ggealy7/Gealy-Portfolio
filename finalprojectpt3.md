@@ -5,4 +5,4 @@
 [Part II](/finalprojectpt2.md)
 
 ## Final Data Story 
-Part III
+[Part III](https://carnegiemellon.shorthandstories.com/gealy-final/index.html)
