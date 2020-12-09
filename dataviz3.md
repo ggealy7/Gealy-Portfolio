@@ -1,4 +1,4 @@
-[Home](readme.md)
+[Home](README.md)
 # Tracking the Coronavirus at U.S. Colleges and Universities, Critique of the New York Times - Homework 3 & 4
 ## Original Image
 ![Image New York Times Covid In Colleges](CovidColleges.PNG)
