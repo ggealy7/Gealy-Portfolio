@@ -1,3 +1,4 @@
+[Home](README.md)
 # Final Project Part 1
 ## Outline
 ### High Level Summary
